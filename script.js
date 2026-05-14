@@ -12,10 +12,10 @@ const PRODUCTS = [
     fabric: "Silk brocade",
     colors: ["Wine Maroon", "Antique Gold", "Deep Plum"],
     images: [
-      "https://images.unsplash.com/photo-1641699862936-3626f6fd264c?auto=format&fit=crop&w=900&q=85",
-      "https://images.unsplash.com/photo-1630443357238-d4e235563745?auto=format&fit=crop&w=900&q=85",
-      "https://images.unsplash.com/photo-1610209843753-b7bd6c6ec1e2?auto=format&fit=crop&w=900&q=85",
-      "https://images.unsplash.com/photo-1532664189809-e02133fee698?auto=format&fit=crop&w=900&q=85"
+      "assets/images/testingsaree.jpg",
+      "assets/images/testingsaree.jpg",
+      "assets/images/testingsaree.jpg",
+      "assets/images/testingsaree.jpg"
     ],
     description: "A rich brocade silk saree with luminous zari-inspired motifs, a grand pallu, and a regal drape for weddings, receptions, and festive evenings."
   },
